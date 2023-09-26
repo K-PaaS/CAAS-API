@@ -4,7 +4,7 @@ spring:
     name: caas-api
   security:
     username: admin
-    password: PaaS-TA
+    password: K-PaaS
 
 project:
   name: caas-api
@@ -94,7 +94,7 @@ commonApi:
   url: http://localhost:3334
   authorization:
     id: admin
-    password: PaaS-TA
+    password: K-PaaS
 
 ---
 spring:
@@ -113,5 +113,5 @@ commonApi:
   url: http://localhost:3334
   authorization:
     id: admin
-    password: PaaS-TA
+    password: K-PaaS
 

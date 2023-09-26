@@ -1,5 +1,5 @@
-# PAAS-TA-CAAS-API
-  PaaS-TA 에서 제공하는 Container 서비스를 제어하기 위한 REST API 를 제공하는 서비스이다.
+# CAAS-API
+  K-PaaS 에서 제공하는 Container 서비스를 제어하기 위한 REST API 를 제공하는 서비스이다.
 
 ## 개발 환경
 - JDK 8
